@@ -10,8 +10,13 @@ for example:
          4x-5y-1z=1
 
 
-node eq-solver {\"size\":3,\"matrix\":[[1,1,1,3],[2,-3,-1,2],[4,-5,-1,1]]}
-Put equation in json format to parameter, last of each line constant value! 
+node eq-solver {\"size\":3,\"matrix\":[
+[1,1,1,3],
+[2,-3,-1,2],
+[4,-5,-1,1]
+]}
+
+put the equations in the json format in the parameters, the last value of a line corresponds to the constant!
 
 ## package 
 npm i jsequation-solver
