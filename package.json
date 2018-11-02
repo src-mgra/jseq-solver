@@ -1,0 +1,27 @@
+{
+  "name": "jsequation-solver",
+  "version": "1.0.0",
+  "description": "solves linear equations systems by gauss-elimination",
+  "main": "eq-solver.js",
+  "scripts": {
+    "test": "node eq-solver {\"size\":3,\"matrix\":[[1,1,1,3],[2,-3,-1,2],[4,-5,-1,1]]}"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/src-mgra/jseq-solver.git"
+  },
+  "keywords": [
+    "math",
+    "equation",
+    "gauss",
+    "solver",
+    "gauss-elimination",
+    "calculate"
+  ],
+  "author": "m. grassmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/src-mgra/jseq-solver/issues"
+  },
+  "homepage": "https://github.com/src-mgra/jseq-solver#readme"
+}
