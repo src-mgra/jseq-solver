@@ -11,9 +11,11 @@ for example:
 
 
 node eq-solver {\"size\":3,\"matrix\":[
+
 [1,1,1,3],
 [2,-3,-1,2],
 [4,-5,-1,1]
+
 ]}
 
 put the equations in the json format in the parameters, the last value of a line corresponds to the constant!
