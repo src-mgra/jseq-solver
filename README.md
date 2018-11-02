@@ -4,10 +4,9 @@ jseq-solver: solves linear equations systems by gauss-elimination
 
 ## use
 for example:
+
          1x+1y+1z=3
-         
          2x-3y-1z=2
-         
          4x-5y-1z=1
 
 
