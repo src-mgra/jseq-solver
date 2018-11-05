@@ -18,9 +18,13 @@ node eq-solver {\"size\":3,\"matrix\":[
 
 ]}
 
-put the equations in the json format in the parameters, the last value of a line corresponds to the constant!
+put the equations in json format in the parameters, the last value of each line corresponds to the constant!
 
-## package 
+## use package 
 npm i jsequation-solver
+
+var eq = require('jsequation-solver/eq-calc');
+   result = eq.eqcalc('{"size":3,"matrix":[[1,1,1,3],[2,-3,-1,2],[4,-5,-1,1]]}');
+   console.log(result);
 
 
