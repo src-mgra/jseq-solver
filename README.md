@@ -28,4 +28,7 @@ npm i jsequation-solver
     result = eq.eqcalc('{"size":3,"matrix":[[1,1,1,3],[2,-3,-1,2],[4,-5,-1,1]]}');
     console.log(result);
 
+## Demo
+
+https://appetize.io/embed/rwy7et51acge9ewd5830n5ng04?device=nexus5&scale=75&orientation=portrait&osVersion=7.1
 
