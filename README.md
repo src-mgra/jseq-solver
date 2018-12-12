@@ -30,5 +30,6 @@ npm i jsequation-solver
 
 ## Demo
 
-https://appetize.io/embed/rwy7et51acge9ewd5830n5ng04?device=nexus5&scale=75&orientation=portrait&osVersion=7.1
+here is a demo of the package used in a android app:
+https://tinyurl.com/ybz6jduq
 
