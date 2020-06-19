@@ -31,6 +31,7 @@ npm i jsequation-solver
 ## Demo
 
 here is a demo of the package used in a android app:
-https://tinyurl.com/y83sxb77
+https://tinyurl.com/yatq9gzk
+
 
 
